@@ -21,6 +21,4 @@ import webs from 'wq2_sdk/client/web/index'
 
 
 
-   
-
-   
+  
