@@ -1,0 +1,21 @@
+{
+  "name": "wq2_sdk",
+  "version": "2.1.1",
+  "description": "a rpc client sdk for wq2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"**/*.{js,json,md}\" --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dnode": "^1.2.2",
+    "reconnectingwebsocket": "^1.0.0",
+    "uuid": "^3.2.1",
+    "ws": "^5.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}
